@@ -1,0 +1,416 @@
+@media (min-width: 960px) {
+.container .main {
+    float: right;
+}
+}
+
+.topbarmenu  {
+    min-width: 1000px;
+    text-align: justify;
+    margin-left: 150px;
+}
+
+.topbarmenu ul li a {
+    color: #fff;
+    display: block;
+    padding: 45px 10px;
+    font-size: 20px;
+	font-weight: 700;
+    transition: background .5s;
+    -moz-transition: background .5s;
+    -webkit-transition: background .5s;
+    -o-transition: background .5s;
+}
+
+.page-header {display:none;}
+
+#nav-main {
+width: 1000px;
+margin-bottom: 0px;
+margin-top: 10px;
+padding-left: 0px;
+padding-right: 0px;
+background:#444444 none repeat scroll 0 0;
+}
+
+#nav-main ul.sf-menu a {
+padding: 15px;
+}
+
+#nav-second {
+width: 1000px;
+margin-bottom: 0px;
+margin-top: 0px;
+height: 40px;
+}
+
+#nav-second ul.sf-menu>li {
+width: 12.5%;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+
+#logo {
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+
+.sliderclass {
+    padding: 0 0 20px;
+background: #c30075;
+}
+
+.contentclass {
+padding-top: 0px;}
+
+.row {
+    margin-top: 7px;
+}
+
+.home-padding {
+    padding: 0px 0 30px;
+}
+
+.home-message:hover {
+   background-color: rgba(100,50,255, 0.30);
+}
+
+.home-message h4 {
+    font-family: open Sans, sans-serif;
+    position: relative;
+    top: 180px;
+    left: 0px;
+    color: #987;
+    padding: 10px;
+    display: block;
+    font-size: 16px;
+    text-align: center;
+}
+
+.infobanner {
+    margin: 20px 0;
+}
+
+.products div.product {
+    position: relative;
+    border: 0px solid #eee;
+    border-color: rgba(0,0,0,.05);
+    height: 370px
+}
+
+.page-header {
+    display: block;
+    padding-top: 1px;
+}
+
+.woocommerce-result-count {
+    margin: 0;
+    text-align: left;
+    font-size: 10px;
+    display: none;
+}
+
+.woocommerce-ordering {
+    margin: 0 0 0 0;
+position: relative;
+}
+
+.product_item .product_price {
+    font-size: 16px;
+    font-weight: 700;
+    display: block;
+    color: #c30075;
+}
+
+#containerfooter {
+    padding-top: 0px;
+}
+
+#containerfooter .widget_nav_menu h3 {
+	font-size: 16px;
+        line-height: 25px;
+        padding-left: 15px;
+}
+
+#containerfooter .menu li a {
+        max-width: 200px;
+        margin-bottom: 0;
+        font-size: 14px;
+        background: none;
+}
+
+.footercredits {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+
+
+.widget_price_filter .ui-slider .ui-slider-handle, .product_item .kad_add_to_cart:hover, .product_item.hidetheaction:hover .kad_add_to_cart:hover, .kad-btn-primary, html .woocommerce-page .widget_layered_nav ul.yith-wcan-label li a:hover, html .woocommerce-page .widget_layered_nav ul.yith-wcan-label li.chosen a, .product-category.grid_item a:hover h5, .woocommerce-message .button, .widget_layered_nav_filters ul li a, .widget_layered_nav ul li.chosen a, .wpcf7 input.wpcf7-submit, .yith-wcan .yith-wcan-reset-navigation, #containerfooter .menu li a:hover, .bg_primary, .portfolionav a:hover, .home-iconmenu a:hover, .home-iconmenu .home-icon-item:hover, p.demo_store, #commentform .form-submit #submit, .kad-hover-bg-primary:hover, .widget_shopping_cart_content .checkout, .login .form-row .button, .post-password-form input[type="submit"], .kad-post-navigation .kad-previous-link a:hover, .track_order .button, .kad-post-navigation .kad-next-link a:hover, .cart_totals .checkout-button, .shipping-calculator-form .button, .select2-results .select2-highlighted, .menu-cart-btn .kt-cart-total, .variations .kad_radio_variations label.selectedValue, #payment #place_order, #kad-head-cart-popup a.button.checkout, .shop_table .actions input[type=submit].checkout-button, input[type="submit"].button, .order-actions .button, .productnav a:hover, .image_menu_hover_class {
+    background: #c30075;
+}
+
+a, a:focus, #nav-main ul.sf-menu ul li a:hover, .product_price ins .amount, .price ins .amount, .color_primary, .primary-color, #logo a.brand, #nav-main ul.sf-menu a:hover, .woocommerce-message:before, .woocommerce-info:before, #nav-second ul.sf-menu a:hover, .footerclass a:hover, .posttags a:hover, .subhead a:hover, .nav-trigger-case:hover .kad-menu-name, .nav-trigger-case:hover .kad-navbtn, #kadbreadcrumbs a:hover, #wp-calendar a, .testimonialbox .kadtestimoniallink:hover, .star-rating {
+    color: #c30075;
+}
+
+a:hover {
+    color: rgba(0,181,226, 1);
+}
+
+.product_item.hidetheaction:hover .kad_add_to_cart {
+    background: #c30075;
+}
+
+nav.woocommerce-pagination ul li a:hover, .wp-pagenavi a:hover, .panel-heading .accordion-toggle, .variations .kad_radio_variations label:hover, .variations .kad_radio_variations label.selectedValue {
+    border-color: #c30075;
+}
+
+.kad-btn-primary:hover, .login .form-row .button:hover, #payment #place_order:hover, .yith-wcan .yith-wcan-reset-navigation:hover, .widget_shopping_cart_content .checkout:hover, .shipping-calculator-form .button:hover, .woocommerce-message .button:hover, #commentform .form-submit #submit:hover, .wpcf7 input.wpcf7-submit:hover, .track_order .button:hover, #kad-head-cart-popup a.button.checkout:hover, .widget_layered_nav_filters ul li a:hover, .cart_totals .checkout-button:hover, .widget_layered_nav ul li.chosen a:hover, .shop_table .actions input[type=submit].checkout-button:hover, .order-actions .button:hover, input[type="submit"].button:hover, .post-password-form input[type="submit"]:hover {
+    background-color: rgba(195,0,117, 0.6);
+}
+
+.next_carousel, .prev_carousel {
+    background: rgba(255,255,255,0.0);
+}
+
+.pricebox .product_price {
+    font-size: 16px;
+    font-weight: 700;
+    color: #c30075;
+}
+
+div.product .product_thumbnails {
+    margin-top: 10px;
+    text-align: left;
+}
+
+#kad-banner {
+   max-height: 220px;
+}
+
+.kad-standard-logo {
+    height: 100px;
+}
+
+.topbarmenu ul li a:hover {
+    color: #fff5e0;
+    background-color: rgba(255,255,255, 0.25);
+}
+
+.product-categories li a:hover {
+   background-color: rgba(255,255,255, 1);
+}
+
+.variations .kad_radio_variations label {
+	padding: 1px 5px;
+	font-size: 12px;
+        color: #555
+}
+
+.product .kad_add_to_cart {
+    font-size: 14px;
+}
+
+#reviews #comments .comment-text p {
+color:#0073aa;
+}
+
+.product_item .notrated {
+color: #FFF;
+}
+
+#content table.cart a.remove {
+    display: inline;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 0;
+    vertical-align: middle;
+    padding: 0;
+    color: #666699;
+    text-decoration: none;
+}
+
+#content table.cart a.remove:hover {
+    color: #ff0033;
+    background: rgba(10, 0, 0, 0.00);
+    font-weight: 500;
+}
+
+div.sidebar img {
+    margin-bottom: 20px;
+}
+
+div.skidki {
+    font-family: Roboto, Open Sans, sans-serif;
+    color: #428bca;
+    font-size: 14px;
+}
+
+section#wysija-3 div.widget-inner h3, section#wysija-2 div.widget-inner h3 {
+ font-size: 18px;
+ color: #987;
+}
+
+section#wysija-3 div.widget-inner, section#wysija-2 div.widget-inner {
+ font-size: 14px;
+ color: grey;
+}
+
+div.details_product_item span.product_out_of_stock {
+    font-family: 'PT Sans', sans-serif;
+    color: grey;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+div.cart_totals table tr.shipping_option, #order_review table tr.shipping_option {
+   display: none;
+}
+
+div.woocommerce-tabs ul.tabs li.additional_information_tab {
+    display: none;
+}
+
+.topbar-widget {
+    text-align: right;
+    margin-right: -50px;
+}
+
+.topbar-widget a {
+    color: white;
+    font-size: 15px;
+    border-bottom: 1px white dashed;
+}
+
+.topbar-widget a:hover {
+    color: #fff6e0;
+}
+
+.exit-link, .my-orders-link {
+    display: none;
+}
+
+.logged-in .exit-link, .logged-in .my-orders-link {
+    display: inline;
+}
+
+.enter-link:before, .exit-link:before {
+    font-family: virtue_icons;
+    content: "\e185";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25em;
+}
+
+.logged-in .enter-link {
+    display: none;
+}
+
+.cart-info-skidka {
+    font-size: 13px;
+    color: #0098d6;
+    background: url(../wp-content/uploads/2018/01/shariki-small-1.jpg) left 0 no-repeat;
+    background-size: 90px 80px;
+    float: left;
+    padding: 10px 0 10px 80px;
+}
+
+form#contactForm {
+    transform: scale(0.94, 0.94);
+   -webkit-transform: scale(0.94, 0.94);
+   -moz-transform: scale(0.94, 0.94);
+   -o-transform: scale(0.94, 0.94);
+}
+
+.order-info mark.order-status {
+display:none;
+}
+
+#kadbreadcrumbs {
+    font-size: 13px;
+}
+
+.kad-mobile-nav {
+    position: absolute;
+    z-index: 99;
+    left: 0;
+}
+
+.kad-mobile-nav .kad-nav-inner li a {
+    font-size: 20px !important;
+}
+
+ul.social_logos {
+    margin-left: 5px;
+}
+.social_logos li {
+    display: inline-block;
+    padding: 2px;
+}
+.social_logos a {
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+.social_logos a:hover {
+    opacity: 0.8;
+}
+.social_logos .vkn {
+    background-image: url(/wp-content/uploads/2019/01/vk-40.png);
+    background-repeat: no-repeat;
+}
+.social_logos .inst {
+    background-image: url(/wp-content/uploads/2019/01/instagr-40.png);
+    background-repeat: no-repeat;
+}
+.social_logos .ytb {
+    background-image: url(/wp-content/uploads/2019/01/youtube-40.png);
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+img {
+    max-width: 80%;
+}
+.kad-standard-logo {
+    height: 75px;
+}
+.topbarmenu {
+    margin-left: 20px;
+}
+.topbarmenu ul li a {
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.icon-menu:before {
+    font-size: 2.2em;
+}
+.topbar-widget a {
+    font-size: 18px;
+}
+#kad-banner {
+   max-height: 190px;
+}
+.home-padding {
+    padding: 0px;
+}
+.homepromo {
+    display: none;
+}
+.sidebar .product-categories li a {
+    font-size: 20px;
+    line-height: 30px;
+}
+.kad_add_to_cart {
+    //display: inline;
+}
+}
